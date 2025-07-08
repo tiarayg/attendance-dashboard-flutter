@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "593088466323",
+    "firebase_url": "https://tubesiot-3d0de-default-rtdb.firebaseio.com",
+    "project_id": "tubesiot-3d0de",
+    "storage_bucket": "tubesiot-3d0de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593088466323:android:eba644848b6a9ac068ec66",
+        "android_client_info": {
+          "package_name": "com.example.tubes2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVkHhj9wlpMzGDm7PzcBnboX9ikbqZj7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
